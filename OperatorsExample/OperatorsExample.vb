@@ -7,8 +7,31 @@
 Module OperatorsExample
 
     Sub Main()
+
+        'sum operator
         Console.Write("5 + 3 = ") 'print the string
         Console.WriteLine(5 + 3) 'print the sum
+        Console.WriteLine()
+
+        'difference operator
+        Console.Write("5 - 3 = ") 'print the string
+        Console.WriteLine(5 - 3) 'print the difference
+        Console.WriteLine()
+
+        'multiplication operator
+        Console.Write("5 * 3 = ") 'print the string
+        Console.WriteLine(5 * 3) 'print the product
+        Console.WriteLine()
+
+        'floating point division operator
+        Console.Write("5 / 3 = ") 'print the string
+        Console.WriteLine(5 / 3) 'print the division
+        Console.WriteLine()
+
+        'multiplication operator
+        Console.Write("3 * 1.66666666666667 = ") 'print the string
+        Console.WriteLine(3 * 1.66666666666667) 'print the product
+        Console.WriteLine()
 
     End Sub
 
