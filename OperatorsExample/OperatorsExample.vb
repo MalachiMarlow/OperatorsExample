@@ -25,7 +25,7 @@ Module OperatorsExample
 
         'floating point division operator
         Console.Write("5 / 3 = ") 'print the string
-        Console.WriteLine(5 / 3) 'print the division
+        Console.WriteLine(5 / 3) 'print the floating point quotient
         Console.WriteLine()
 
         'multiplication operator
