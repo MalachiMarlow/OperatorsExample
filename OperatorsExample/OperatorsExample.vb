@@ -33,6 +33,16 @@ Module OperatorsExample
         Console.WriteLine(3 * 1.66666666666667) 'print the product
         Console.WriteLine()
 
+        'interger division operator
+        Console.Write("5 \ 3 = ") 'print the string
+        Console.WriteLine(5 \ 3) 'print the quotient
+        Console.WriteLine()
+
+        'modulus operator
+        Console.Write("5 mod 3 = ") 'print the string
+        Console.WriteLine(5 Mod 3) 'print the 
+        Console.WriteLine()
+
     End Sub
 
 End Module
