@@ -40,7 +40,12 @@ Module OperatorsExample
 
         'modulus operator
         Console.Write("5 mod 3 = ") 'print the string
-        Console.WriteLine(5 Mod 3) 'print the 
+        Console.WriteLine(5 Mod 3) 'print the remainder
+        Console.WriteLine()
+
+        'exponent operator
+        Console.Write("5 ^ 3 = ") 'print the string
+        Console.WriteLine(5 ^ 3) 'print exponent
         Console.WriteLine()
 
     End Sub
