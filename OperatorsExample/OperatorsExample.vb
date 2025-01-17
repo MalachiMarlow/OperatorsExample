@@ -48,6 +48,13 @@ Module OperatorsExample
         Console.WriteLine(5 ^ 3) 'print exponent
         Console.WriteLine()
 
+        'concatenaiton operator
+        Console.Write("5" & " " & " + " & " 3 " & " = " & " 8 ") 'print the string
+        Console.WriteLine()
+        Console.WriteLine("wake up samurai..." & vbNewLine & "We got a city to burn...")
+        Console.WriteLine(StrDup(10, "Ω"))
+
+
     End Sub
 
 End Module
